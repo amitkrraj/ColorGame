@@ -1,7 +1,6 @@
 var numSquares=6;
 var colors=[];
 var pickedColor;
-
 var squares=document.querySelectorAll(".square");
 var colorDisplay=document.getElementById("colorDisplay");
 var messageDisplay=document.querySelector("#message");
